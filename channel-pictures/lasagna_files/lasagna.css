@@ -1,0 +1,17 @@
+.title{
+  font-size: 40px;
+}
+
+.picture{
+  width: 500px;
+}
+
+.description{
+  width: 500px;
+}
+.ingredients{
+  font-size: 14px;
+}
+.beef{
+  display: inline-block;
+}
